@@ -1,6 +1,9 @@
 # **Simulador de Financiamento**
 
-![Simulador de Financiamento](https://github.com/Yur3e/Python-Repository/assets/88630655/2cc36abd-6eba-43c6-a10f-9ab3a7440c0a)
+
+
+https://github.com/Yur3e/Simulador-Financiamento/assets/88630655/fb52c98b-2de4-4473-861e-4ccae8e46f99
+
 
 
 Este é um simulador de financiamento de imóveis desenvolvido em Python utilizando a biblioteca tkinter. Ele permite calcular o valor das parcelas mensais com base no valor do imóvel, anos de financiamento, taxa de juros anual e porcentagem de entrada.
