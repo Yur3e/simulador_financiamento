@@ -1,7 +1,7 @@
 # **Simulador de Financiamento**
 
 
-![ezgif com-video-to-gif](https://github.com/Yur3e/Simulador-Financiamento/assets/88630655/534932b1-c587-4112-9832-9b3dfa7477a1)
+![Simulador de Financiamento](https://github.com/Yur3e/Simulador-Financiamento/assets/88630655/534932b1-c587-4112-9832-9b3dfa7477a1)
 
 
 
